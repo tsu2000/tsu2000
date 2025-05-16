@@ -3,7 +3,7 @@
 
 <br>
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Cal+Sans&size=32&duration=3000&pause=500&color=38C2FF&width=800&height=43&lines=Hi+%F0%9F%91%8B+I'm+Teng+Suan,+recent+NUS+Business+Graduate;I'm+passionate+about+data+science+and+analytics;Check+out+some+of+my+projects+below%3A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Cal+Sans&size=32&duration=3000&pause=500&color=30ec58&width=800&height=43&lines=Hi+%F0%9F%91%8B+I'm+Teng+Suan,+recent+NUS+Business+Graduate;I'm+passionate+about+data+science+and+analytics;Check+out+some+of+my+projects+below%3A" alt="Typing SVG" />
 </p> 
 
 - 🎓 I’m a recent BBA graduate from the National University of Singapore
