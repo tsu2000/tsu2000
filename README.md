@@ -3,7 +3,7 @@
 
 <br>
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Cal+Sans&size=32&duration=3000&pause=500&color=30ec58&width=800&height=50&lines=Hi+%F0%9F%91%8B+I'm+Teng+Suan,+recent+NUS+Business+Graduate;I'm+passionate+about+data+science+and+analytics;Check+out+some+of+my+projects+below%3A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Cal+Sans&size=32&duration=3000&pause=500&color=30ec58&width=800&height=50&lines=Hi+%F0%9F%91%8B+I'm+Teng+Suan,+recent+NUS+BBA+Graduate;I'm+passionate+about+data+science+and+analytics;Check+out+some+of+my+projects+below%3A" alt="Typing SVG" />
 </p> 
 
 - 🎓 I’m a recent BBA graduate from the National University of Singapore
@@ -53,6 +53,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 
 ### Others
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
