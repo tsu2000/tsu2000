@@ -7,8 +7,8 @@
 </p> 
 
 - 🎓 I’m a recent BBA graduate from the National University of Singapore
-- 🤝 Currently open for internship/project/job opportunities for anything data related!
-- 📫 You can reach me at: **ngtengsuan@u.nus.edu** or **ngtengsuan@gmail.com**
+- 🤝 Open to any data-related projects. Let’s collaborate and build something useful!
+- 📫 You can reach me at: **ngtengsuan@gmail.com**
 
 <h4 align="left">Connect with me through my social media handles:</h4>
 <p align="left">
