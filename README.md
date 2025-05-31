@@ -3,11 +3,11 @@
 
 <br>
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Cal+Sans&size=32&duration=3000&pause=500&color=30ec58&width=800&height=50&lines=Hi+%F0%9F%91%8B+I'm+Teng+Suan,+recent+NUS+BBA+Graduate;I'm+passionate+about+data+science+and+analytics;Check+out+some+of+my+projects+below%3A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Cal+Sans&size=32&duration=3000&pause=500&color=30ec58&width=800&height=50&lines=Hi+%F0%9F%91%8B+I'm+Teng+Suan,+recent+NUS+BBA+Graduate!;I'm+passionate+about+data+science+and+analytics;Check+out+some+of+my+projects+below!%3A" alt="Typing SVG" />
 </p> 
 
-- 🎓 I’m a recent BBA graduate from the National University of Singapore
-- 🤝 Open to any data-related projects. Let’s collaborate and build something useful!
+- 🎓 Hi! I’m Teng Suan, a recent BBA graduate from the National University of Singapore
+- 🤝 I'm currently open to any data-related projects. Let’s collaborate and build something useful!
 - 📫 You can reach me at: **ngtengsuan@gmail.com**
 
 <h4 align="left">Connect with me through my social media handles:</h4>
