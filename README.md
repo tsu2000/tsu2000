@@ -9,6 +9,7 @@
 - 🎓 Hi! I’m Teng Suan, a recent BBA graduate from the National University of Singapore
 - 🤝 I'm currently open to any data-related projects. Let’s collaborate and build something useful!
 - 📫 You can reach me at: **ngtengsuan@gmail.com**
+- 🌐 Visit my personal website [**here**](https://tsu2000.github.io/)
 
 <h4 align="left">Connect with me through my social media handles:</h4>
 <p align="left">
@@ -37,10 +38,11 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Data Analysis/Data Visualisation
+### Data Analysis/Data Visualisation/Mathematical Optimisation
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![GurobiPy](https://img.shields.io/badge/Gurobi-EE3524?style=for-the-badge&logo=gurobi&logoColor=ffffff)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
